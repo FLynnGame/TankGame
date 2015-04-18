@@ -1,0 +1,9 @@
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GDI+画线\bin\Debug\GDI+画线.exe.config
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GDI+画线\bin\Debug\GDI+画线.exe
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GDI+画线\bin\Debug\GDI+画线.pdb
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GDI+画线\obj\Debug\GDI_画线.Form1.resources
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GDI+画线\obj\Debug\GDI_画线.Properties.Resources.resources
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GDI+画线\obj\Debug\GDI+画线.csproj.GenerateResource.Cache
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GDI+画线\obj\Debug\GDI+画线.exe
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GDI+画线\obj\Debug\GDI+画线.pdb
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GDI+画线\obj\Debug\GDI+画线.csprojResolveAssemblyReference.cache

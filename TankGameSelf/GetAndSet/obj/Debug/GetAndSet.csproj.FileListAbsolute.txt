@@ -1,0 +1,6 @@
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GetAndSet\bin\Debug\GetAndSet.exe.config
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GetAndSet\bin\Debug\GetAndSet.exe
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GetAndSet\bin\Debug\GetAndSet.pdb
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GetAndSet\obj\Debug\GetAndSet.exe
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\GetAndSet\obj\Debug\GetAndSet.pdb
+D:\我的文档\Visual Studio 2012\Projects\TankGameSelf\GetAndSet\obj\Debug\GetAndSet.csprojResolveAssemblyReference.cache

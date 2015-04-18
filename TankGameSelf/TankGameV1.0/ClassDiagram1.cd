@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TankGameV1._0.Blood" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAgAAAAAAAAAAAAABAAAAAABgAgAAAAA=</HashCode>
+      <FileName>Blood.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.Boom" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Boom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.BulletFather" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAIAAUgAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>BulletFather.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.EnemyBullet" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EnemyBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.EnemyTank" Collapsed="true">
+    <Position X="15.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAQAgAAAAIBAAgAIAAEAEBQIAAAEAAAABAAAAAAAEBA=</HashCode>
+      <FileName>EnemyTank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.Form1" Collapsed="true">
+    <Position X="21" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEADAAAEAAAACAAAACAAIAIAAAAAQCAAAAABA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.GameObject" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJIAAAgAgAAAAAEABAAAAAAAAAAAAAAABYAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.PlayerBullet" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.PlayerTank" Collapsed="true">
+    <Position X="17.25" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>oAAAAAAAAAAggAAIAwgQCAAAAAAEAACABAAgAgBBAAA=</HashCode>
+      <FileName>PlayerTank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.Program" Collapsed="true">
+    <Position X="22.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.SingleObject">
+    <Position X="22.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBgAAACAAAAIgCAAAgAAAAAAJAAAACAQACAAAAAQgA=</HashCode>
+      <FileName>SingleObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.SmallBoom" Collapsed="true">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>SmallBoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.TankBorn" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>TankBorn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.TankFather" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAgAAAAAAAAAAgAIAAAAIAAAAAAEAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>TankFather.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.Wall" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.Properties.Resources" Collapsed="true">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEQBIQAAAIgAAgAgAACBEIBBASCgAAAEBFgEAAMCAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankGameV1._0.Properties.Settings" Collapsed="true">
+    <Position X="19.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TankGameV1._0.Direction" Collapsed="true">
+    <Position X="25.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAKACAAAAAAAI=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

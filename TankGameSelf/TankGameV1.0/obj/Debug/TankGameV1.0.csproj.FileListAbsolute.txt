@@ -1,0 +1,9 @@
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\TankGameV1.0\bin\Debug\TankGameV1.0.exe.config
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\TankGameV1.0\bin\Debug\TankGameV1.0.exe
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\TankGameV1.0\bin\Debug\TankGameV1.0.pdb
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\TankGameV1.0\obj\Debug\TankGameV1._0.Form1.resources
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\TankGameV1.0\obj\Debug\TankGameV1._0.Properties.Resources.resources
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\TankGameV1.0\obj\Debug\TankGameV1.0.csproj.GenerateResource.Cache
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\TankGameV1.0\obj\Debug\TankGameV1.0.exe
+d:\我的文档\visual studio 2012\Projects\TankGameSelf\TankGameV1.0\obj\Debug\TankGameV1.0.pdb
+D:\我的文档\Visual Studio 2012\Projects\TankGameSelf\TankGameV1.0\obj\Debug\TankGameV1.0.csprojResolveAssemblyReference.cache
